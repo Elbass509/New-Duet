@@ -1,0 +1,2 @@
+export const URL = 'https://console.firebase.google.com/project/my-quiz-app-3be14/database/my-quiz-app-3be14-default-rtdb/data/~2FavailableCourses'
+//https://console.firebase.google.com/project/my-quiz-app-3be14/database/my-quiz-app-3be14-default-rtdb/data/~2FavailableCourses~2F0~2Fid
